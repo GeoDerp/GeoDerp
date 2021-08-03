@@ -1,7 +1,7 @@
 <img src="" align="right"> 
 
 
-#### 👨‍💻 About me 
+### 👨‍💻 About me 
 -----
 - A tech head who loves solving tech related problems via reverse engineering or learning how tools work. 
 - I enjoy automation and creating scripts/tools to make repetitive tasks less aggravating. 
