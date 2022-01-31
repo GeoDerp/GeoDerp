@@ -3,7 +3,7 @@
 
 ### 👨‍💻 About me 
 -----
-- A tech head who loves solving tech related problems via reverse engineering or learning how tools work. 
+- A tech head who loves solving tech related problems via reverse engineering or learning how tools function. 
 - I enjoy automation and creating scripts/tools to make repetitive tasks less aggravating. 
 - I use Fedora Linux as my daily driver. 
 - I Prefer creating, and using, open source software where possible.
