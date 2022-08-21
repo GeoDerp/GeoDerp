@@ -13,7 +13,7 @@
 - Containers 
 - Ansible 
 - Maybe some kubernetes and cloud computing
-- Some CI (github actions)
+- CI/CD (aiming to go into DevSecOps/SRE for a job)
 </br></br>
 ### skills
 - Linux 
