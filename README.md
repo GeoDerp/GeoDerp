@@ -1,4 +1,4 @@
-<img src="" align="right"> 
+<img src="john-whately.jpg" align="right"> 
 
 
 ### 👨‍💻 About me 
