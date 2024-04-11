@@ -16,7 +16,7 @@
     <li>Platform Engineering and DevSecOps</li>
     <ul>
       <li>Containers</li>
-      <li>Ansible</li>
+      <li>IaC (Ansible)</li>
       <li>CI/CD</li>
       <li>K8s</li>
     </ul>
@@ -25,10 +25,10 @@
   <h2>Skills</h2>
   <ul>
     <li>Linux</li>
+    <li>Networking and Cybersecurity</li>
     <li>Programming <i>(Java,html,css,bash)</i></li>
     <li>AV Teck</li>
     <li>Graphic Design</li>
     <li>Automation</li>
-    <li>Networking and Cybersecurity</li>
   </ul>
 </body>
