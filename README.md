@@ -26,7 +26,7 @@
   <ul>
     <li>Linux</li>
     <li>Networking and Cybersecurity</li>
-    <li>Programming <i>(Java,html,css,bash)</i></li>
+    <li>Programming <i>(Java,html,css,JS,bash)</i></li>
     <li>AV Teck</li>
     <li>Graphic Design</li>
     <li>Automation</li>
